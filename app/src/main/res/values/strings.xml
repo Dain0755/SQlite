@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLDefinitivo</string>
+    <string name="tv_Datos">Datos</string>
+    <string name="tv_nombre">Nombre</string>
+    <string name="tv_cedula">Id</string>
+    <string name="tv_password">Password</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_consultar">Consultar</string>
+</resources>
